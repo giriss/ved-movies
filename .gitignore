@@ -1,6 +1,5 @@
 vendor
 vendor2
-.env
 node_modules
 build
 dist
